@@ -1,1 +1,1 @@
-file:///C:/Users/User/Desktop/WEBSITE%20PERTAMA/WEBSITE%20PERTAMA.html
+WEBSITE PERTAMA.html
